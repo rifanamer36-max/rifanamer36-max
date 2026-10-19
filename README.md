@@ -8,25 +8,36 @@
 
 ---
 
-### ✨ About Me
-- 👩‍💻 Who am I: A passionate Data Science student who loves turning complex data into clear, beautiful stories.
-- 🚀 My Vibe: High energy, deeply curious, and always excited to explore new tech frontiers.
-- 🌱 Currently Exploring: Diving deeper into the Python ecosystem, data manipulation, and building smart analytical skills.
-- 🎯 Mission: Keep learning, keep growing, and build things that actually matter.
+### 🌟 "Turning complex data into clear stories & building smart web experiences."
+---
+
+### 🧰 Tech Stack & Superpowers
+
+#### 📊 Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+---
+
+#### 🌐 Web Development (Full-Stack)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+### 📌 Featured Projects
+- 💬 **[QuoteIt](https://github.com/rifanamer36-max/quoteit)** — Full-stack web application built with *Laravel & Vite* for reading, sharing, and managing quotes.
+- 🚗 **[Saudi Road Safety Analysis](https://github.com/rifanamer36-max/saudi-road-safety-analysis)** — Data analytics project exploring open Saudi road safety data using *Python & Jupyter*.
 
 ---
 
-### 🎨 Tech Stack & Superpowers
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+### ⚡ Currently Working On
+- 🎓 *Tuwaiq Academy Bootcamp* | Deep diving into modern web development & full-stack practices.
+- 🎓 *Umm Al-Qura University* | Pursuing Data Science.
 
----
 
 ### 📊 GitHub Activity & Stats
 <div align="center">
